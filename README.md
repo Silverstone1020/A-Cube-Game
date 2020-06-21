@@ -14,7 +14,9 @@ use 'left arrow', 'right arrow', 'up arrow', 'down arrow' to rotate the cube.
 
 Have fun. Thanks.
 
+![](Pics/MainWindow.png)
 
+![](Pics/PlayMode2.png)
 
 
 
